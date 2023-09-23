@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TangailMedicalPoint" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#F8FDFF</item>
+    </style>
+
+    <style name="Theme.TangailMedicalPoint" parent="Base.Theme.TangailMedicalPoint" />
+</resources>

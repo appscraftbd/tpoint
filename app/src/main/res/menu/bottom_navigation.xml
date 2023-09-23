@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+
+        android:icon="@drawable/homeicone"
+        android:id="@+id/home"
+        android:title="HOME" />
+    <item
+        android:icon="@drawable/searchicone"
+        android:id="@+id/search"
+        android:title="SEARCH" />
+    <item
+       android:icon="@drawable/bloodicone"
+        android:id="@+id/blood"
+        android:title="BLOOD" />
+    <item
+        android:icon="@drawable/profileicone"
+        android:id="@+id/about"
+        android:title="ABOUT" />
+</menu>
